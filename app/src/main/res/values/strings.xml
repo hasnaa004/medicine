@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Build Reminder</string>
+    <string name="add_new_medicine">Add New Medicine</string>
+    <string name="fill_out_the_fields_and_hit_the_save_button_to_add_it">Fill out the fields and hit the Save Button to add it!</string>
+    <string name="name">Name*</string>
+    <string name="type">Type*</string>
+    <string name="dose">Dose*</string>
+    <string name="mg">1000mg</string>
+    <string name="amount">Amount*</string>
+    <string name="reminders">Reminders</string>
+    <string name="date">Date</string>
+    <string name="schedule_notification">Schedule Notification</string>
+    <string name="next">Next</string>
+    <string name="today">Today</string>
+    <string name="add_your_meds_to_be_reminded_on_time_and_track_your_health">Add our meds to be reminded on time and track your health</string>
+    <string name="add_medicine">Add Medicine</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="delete">Delete</string>
+    <string name="medicine_date">Medicine Date</string>
+    <string name="medicine_title">Medicine Title</string>
+    <string name="medicine_message">Medicine Message</string>
+</resources>
