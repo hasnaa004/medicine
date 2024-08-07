@@ -1,5 +1,6 @@
 pluginManagement {
     repositories {
+<<<<<<< HEAD
         google {
             content {
                 includeGroupByRegex("com\\.android.*")
@@ -7,6 +8,9 @@ pluginManagement {
                 includeGroupByRegex("androidx.*")
             }
         }
+=======
+        google()
+>>>>>>> secondary/main
         mavenCentral()
         gradlePluginPortal()
     }
@@ -19,6 +23,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Build Reminder"
 include(":app")
  
+=======
+rootProject.name = "Medical App"
+include(":app")
+>>>>>>> secondary/main
